@@ -1,5 +1,6 @@
 #include<stdio.h>
 vopid main()
 {
-print("my name is abc"):
+
+  print("this is basic c program");
 }
